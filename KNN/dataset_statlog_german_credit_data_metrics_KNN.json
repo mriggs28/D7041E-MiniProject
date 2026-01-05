@@ -1,0 +1,8 @@
+{
+  "name": "KNN",
+  "best_K": 5,
+  "val_accuracy": 0.72,
+  "test_accuracy": 0.765,
+  "val_f1": 0.6858498023715416,
+  "test_f1": 0.7376700747859388
+}
