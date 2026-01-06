@@ -1,0 +1,7 @@
+{
+  "name": "Hierarchical_Clustering",
+  "val_accuracy": 0.5714285714285714,
+  "test_accuracy": 0.5714285714285714,
+  "val_f1": 0.47619047619047616,
+  "test_f1": 0.47619047619047616
+}
