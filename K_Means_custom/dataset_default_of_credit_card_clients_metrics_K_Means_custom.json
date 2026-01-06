@@ -1,0 +1,8 @@
+{
+  "name": "K_Means_custom",
+  "best_K": 5,
+  "val_accuracy": 0.8045,
+  "test_accuracy": 0.8013333333333333,
+  "val_f1": 0.7686112666424879,
+  "test_f1": 0.767640206117259
+}

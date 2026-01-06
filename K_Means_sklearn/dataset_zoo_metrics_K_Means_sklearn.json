@@ -1,0 +1,8 @@
+{
+  "name": "K_Means_sklearn",
+  "best_K": 4,
+  "val_accuracy": 0.85,
+  "test_accuracy": 0.8095238095238095,
+  "val_f1": 0.7952380952380953,
+  "test_f1": 0.7482993197278911
+}

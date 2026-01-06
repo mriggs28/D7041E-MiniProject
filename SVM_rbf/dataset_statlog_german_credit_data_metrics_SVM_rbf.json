@@ -1,7 +1,7 @@
 {
   "name": "SVM_rbf",
-  "val_accuracy": 0.715,
-  "test_accuracy": 0.765,
-  "val_f1": 0.6712415996474606,
-  "test_f1": 0.7347695640997393
+  "val_accuracy": 0.745,
+  "test_accuracy": 0.745,
+  "val_f1": 0.719197226016602,
+  "test_f1": 0.7312542904775914
 }

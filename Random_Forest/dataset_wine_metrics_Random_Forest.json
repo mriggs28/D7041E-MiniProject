@@ -1,7 +1,7 @@
 {
   "name": "Random_Forest",
-  "val_accuracy": 0.9444444444444444,
+  "val_accuracy": 1.0,
   "test_accuracy": 1.0,
-  "val_f1": 0.943927451478939,
+  "val_f1": 1.0,
   "test_f1": 1.0
 }
